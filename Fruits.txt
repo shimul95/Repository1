@@ -1,8 +1,0 @@
-
-
-This is the list of Fruits with vitamin C:
-
-Mango
-Orange
-Pineapple
-Grapes
